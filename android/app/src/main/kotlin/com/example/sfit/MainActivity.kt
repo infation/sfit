@@ -1,4 +1,4 @@
-package com.example.sfit
+package com.sminev.sfit
 
 import io.flutter.embedding.android.FlutterActivity
 
