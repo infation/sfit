@@ -60,6 +60,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.sminev.sfit'
 }
 
 flutter {
@@ -68,4 +69,5 @@ flutter {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.huawei.hms:health:6.8.0.300'
 }
